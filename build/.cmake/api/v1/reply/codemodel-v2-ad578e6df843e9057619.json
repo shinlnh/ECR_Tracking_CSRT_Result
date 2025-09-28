@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "eldercare_tracking",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eldercare_pipeline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eldercare_pipeline-Debug-197693443629907547f0.json",
+					"name" : "eldercare_pipeline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eldercare_tracking::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eldercare_tracking-Debug-39b89a95d2402d494cf8.json",
+					"name" : "eldercare_tracking",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eldercare_tracking_otb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eldercare_tracking_otb-Debug-5d5aa004bae6910bd4f7.json",
+					"name" : "eldercare_tracking_otb",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+		"source" : "E:/SourceCode/C2P/Project/ECR_Tracking"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
